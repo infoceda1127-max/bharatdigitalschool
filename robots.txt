@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infoceda1127-max.github.io/bharatdigitalschool/sitemap.xml
